@@ -25,3 +25,5 @@ iv. Automatically turn on light when found any motion.<br/>
 # API Used:
 1. Weather API
 2. Telegram Bot API
+
+# Here Safety.zip is a compressed folder which contains android application.
