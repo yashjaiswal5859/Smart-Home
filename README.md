@@ -2,7 +2,7 @@
 
 An IoT and Android based project by which we can control our convert our home into smart home. Some functionalities are:
 
-i. Control home appliances through mobile wirelessly.\n
+i. Control home appliances through mobile wirelessly.<br/>
 ii. Making our home fireproof by adding fire safety features.
 iii. Making our home thiefproof by adding fingerprint lock and camera feature.
 iv. Automatically turn on light when found any motion.
