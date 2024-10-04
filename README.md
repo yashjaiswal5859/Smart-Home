@@ -1,5 +1,7 @@
 # Smart-Home
 
+Updated version of https://github.com/yashjaiswal5859/Home-Automation-with-Fire-Safety.
+
 An IoT and Android based project by which we can control our convert our home into smart home. Some functionalities are:
 
 i. Control home appliances through mobile wirelessly.<br/>
